@@ -9,4 +9,4 @@ Selamat datang di game kami! Sebelum memulai gamenya boleh dong kenalan dulu sam
 - Arvin Winardi (00000058607)
 - Andrea Zoe Putri Sukonco (00000059793)
 
-Jangan lupa untuk cek aturan mainannya juga supaya tidak bingung saat bermain!
+Jangan lupa untuk cek aturan mainannya di home juga supaya tidak bingung saat bermain!

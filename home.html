@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <title>Read Me</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+  <body>
+    <style>
+      .box1 {
+        border: 3px solid blue;
+        border-width: 1000px;
+        border-image: fill;
+      }
+      #text {
+        text-align: center;
+        font-size: 30px;
+        text-decoration-line: underline;
+        text-decoration-style: dashed;
+        text-transform: uppercase;
+        color: #050505;
+      }
+    </style>
+
+    <div class="w3-sidebar w3-bar-block w3-black w3-card" style="width: 130px">
+      <h5 class="w3-bar-item">Menu</h5>
+      <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'About')">About</button>
+      <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'How')">How to Play</button>
+      <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Credit')">Credit</button>
+      <button class="w3-bar-item w3-button tablink" onClick="location.href='choose.html'">Play Game</button>
+    </div>
+
+    <div style="margin-left: 130px">
+      <div class="w3-padding" id="text">Team one's World</div>
+      <div id="box">
+        <div id="About" class="w3-container city w3-animate-opacity" style="display: none">
+          <h2>About</h2>
+          <p>Team one's world is a html based game.</p>
+          <p>This game simulates the daily life of Multimedia Nusantara University College student</p>
+        </div>
+      </div>
+      <div id="How" class="w3-container city w3-animate-opacity" style="display: none">
+        <h2>How To Play</h2>
+        <p>1. Choose your avatar</p>
+        <p>2. Enter your name in the text box then click the Gaskan button</p>
+        <p>3. Click next page button to enter the game</p>
+        <p>4. Look at the progress bar, your job is to make sure the bar is filled all the time If its empty, there will be warning and u might lose the game.</p>
+        <p>5. To fill the bar, all you need to do is click the buttons below the progress bars.</p>
+        <p>6. To win the game, you must reach the 8th semester by filling the study bar</p>
+        <p>7. Thats how to play Team one's world, Enjoy :)</p>
+      </div>
+      <div id="Credit" class="w3-container city w3-animate-opacity" style="display: none">
+        <h2>Credits</h2>
+        <h3>The ones who made this game:</h3>
+        <ul>
+          <li>Muhammad Bayu Pratama (00000057853)</li>
+          <li>Kevin Andreli (00000058005)</li>
+          <li>Arvin Winardi (00000058607)</li>
+          <li>Andrea Zoe Putri Sukonco (00000059793)</li>
+        </ul>
+        <h3>Thanks to:</h3>
+        <ul>
+          <li>Bu Fenina Tobing</li>
+          <li>YMMI</li>
+        </ul>
+      </div>
+    </div>
+
+    <script>
+      function openLink(evt, animName) {
+        var i, x, tablinks;
+        x = document.getElementsByClassName("city");
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablink");
+        for (i = 0; i < x.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" w3-red", "");
+        }
+        document.getElementById(animName).style.display = "block";
+        evt.currentTarget.className += " w3-red";
+      }
+    </script>
+  </body>
+</html>

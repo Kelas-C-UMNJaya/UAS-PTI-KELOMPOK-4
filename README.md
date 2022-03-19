@@ -10,6 +10,3 @@ Selamat datang di game kami! Sebelum memulai gamenya boleh dong kenalan dulu sam
 - Andrea Zoe Putri Sukonco (00000059793)
 
 Jangan lupa untuk cek aturan mainannya juga supaya tidak bingung saat bermain!
-
-### Aturan
-Lorem ipsum

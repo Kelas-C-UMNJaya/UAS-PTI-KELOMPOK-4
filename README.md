@@ -1,12 +1,13 @@
-# Campus Life Simulator
-## Kelompok 1
+# 7 Days Student
+## IF231-C & IF231-CLHY KELOMPOK 4
 
-Selamat datang di game kami! Sebelum memulai gamenya boleh dong kenalan dulu sama anggotanya~
+Selamat datang di game kami!
+Mari kenalan dengan tim kami!
 
-### Anggota
+### ANGGOTA KELOMPOK
 - Muhammad Bayu Pratama (00000057853)
 - Kevin Andreli (00000058005)
 - Arvin Winardi (00000058607)
 - Andrea Zoe Putri Sukonco (00000059793)
 
-Jangan lupa untuk cek aturan mainannya di home juga supaya tidak bingung saat bermain!
+### ATURAN MAIN

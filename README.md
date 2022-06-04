@@ -21,5 +21,6 @@ Mari kenalan dengan tim kami!
 - User dapat mengakses news jika klik button NEWS.
 - Game over jika progress bar habis.
 - Game berhasil tamat jika user menyelesaikan 7 hari di game.
+- Ketika game tamat akan ada alert ucapan terima kasih dan refresh ke page pertama.
 
 ### DEMO GAME

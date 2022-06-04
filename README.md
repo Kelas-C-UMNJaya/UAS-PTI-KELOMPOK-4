@@ -24,3 +24,4 @@ Mari kenalan dengan tim kami!
 - Ketika game tamat akan ada alert ucapan terima kasih dan refresh ke page pertama.
 
 ### DEMO GAME
+https://www.youtube.com/watch?v=U6SflPLCByI&feature=youtu.be

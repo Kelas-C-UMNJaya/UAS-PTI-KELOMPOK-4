@@ -11,7 +11,6 @@ Mari kenalan dengan tim kami!
 - Andrea Zoe Putri Sukonco (00000059793)
 
 ### ATURAN MAIN
-- Gunakan https://codesandbox.io react untuk menjalankan program.
 - Masukkan Nama, pilih jurusan dan karakter yang diinginkan.
 - Permainan akan dimulai dari hari minggu pukul 00.00.
 - Terdapat tiga lokasi yang dapat dikunjungi oleh user; Home, Campus, dan Mall.
@@ -22,3 +21,5 @@ Mari kenalan dengan tim kami!
 - User dapat mengakses news jika klik button NEWS.
 - Game over jika progress bar habis.
 - Game berhasil tamat jika user menyelesaikan 7 hari di game.
+
+### DEMO GAME

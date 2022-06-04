@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+}
+/*=============================================*/
+/*              Progress Bar Makan             */
+/*=============================================*/
+
+.Bar-Makan {
+  font-family: sans-serif;
+  padding: 3px;
+}
+.Makan {
+  padding: 5px;
+  margin: center;
+  background-color: #222;
+}
+
+/*=============================================*/
+/*              Progress Bar Tidur             */
+/*=============================================*/
+
+.Bar-Tidur {
+  padding-top: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.Tidur {
+  padding: 5px;
+  margin: center;
+  background-color: #222;
+  border-color: white;
+}
+
+/*=============================================*/
+/*              Progress Bar GAMING            */
+/*=============================================*/
+
+.Bar-Gaming {
+  font-family: sans-serif;
+
+  padding-top: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.Gaming {
+  padding: 5px;
+  margin: center;
+  background-color: #222;
+  border-color: white;
+}
+
+/*=============================================*/
+/*              Progress Bar Belajar             */
+/*=============================================*/
+
+.Bar-Belajar {
+  font-family: sans-serif;
+
+  padding-top: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.Belajar {
+  padding: 5px;
+  margin: center;
+  background-color: #222;
+  border-color: white;
+}
+
+.content {
+  margin-top: 100px;
+  text-align: center;
+}

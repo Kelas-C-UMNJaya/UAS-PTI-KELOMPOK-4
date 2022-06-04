@@ -1,0 +1,75 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body,
+html {
+  background-image: url("./background/TampilanAwal.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  transition: 1s ease;
+}
+
+button {
+  font-family: "Open Sans", sans-serif;
+  width: 110px;
+  position: absolute;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+    5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+button:hover {
+  margin: 5px;
+  background-color: rgb(42, 33, 33);
+  color: whitesmoke;
+  border-radius: 5px;
+}
+
+button#lastbutton {
+  margin-top: 5px;
+}
+
+button#lastbutton2 {
+  margin-top: 120px;
+}
+
+#footer {
+  background-color: darkred;
+  height: 129px;
+}
+
+#image {
+  text-align: center;
+}
+
+h5 {
+  color: white;
+  font-family: cursive;
+}
+
+button:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+@media (min-width: 768px) {
+  .button-54 {
+    padding: 0.25em 0.75em;
+  }
+}

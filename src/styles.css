@@ -1,0 +1,10 @@
+.Box {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 400px;
+  height: 250px;
+  background-color: rgb(243, 75, 45);
+  position: relative;
+  padding: 10px;
+}
